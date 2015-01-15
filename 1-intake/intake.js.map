@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "intake.js",
+  "sourceRoot": "",
+  "sources": [
+    "intake.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,EAAA,OAAO,CAAC,GAAR,CAAY,WAAZ,CAAA,CAAA;;AAAA,EACA,OAAO,CAAC,KAAR,CAAc,6BAAd,CADA,CAAA;AAAA"
+}
